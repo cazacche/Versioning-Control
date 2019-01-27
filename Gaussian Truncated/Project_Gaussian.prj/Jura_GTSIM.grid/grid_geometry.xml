@@ -1,0 +1,16 @@
+<!DOCTYPE gridGeometry>
+<Grid name="Jura_GTSIM" type="Point_set">
+<Geometry size="259"/>
+<Properties>
+<GsTLGridProperty name="Ind_Cat_1" filepath="properties/property__Ind_Cat_1.sgems" type="Continuous"/>
+<GsTLGridProperty name="Ind_Cat_2" filepath="properties/property__Ind_Cat_2.sgems" type="Continuous"/>
+<GsTLGridProperty name="Ind_Cat_3" filepath="properties/property__Ind_Cat_3.sgems" type="Continuous"/>
+<GsTLGridProperty name="Ind_Cat_4" filepath="properties/property__Ind_Cat_4.sgems" type="Continuous"/>
+<GsTLGridProperty name="Ind_Cat_5" filepath="properties/property__Ind_Cat_5.sgems" type="Continuous"/>
+<GsTLGridProperty name="Normal Score value" filepath="properties/property__Normal Score value.sgems" type="Continuous"/>
+<GsTLGridProperty name="Rock" filepath="properties/property__Rock.sgems" type="Continuous"/>
+<GsTLGridProperty name="weigth_nn" filepath="properties/property__weigth_nn.sgems" type="Continuous"/>
+</Properties>
+<Regions/>
+<PropertyGroups/>
+</Grid>
